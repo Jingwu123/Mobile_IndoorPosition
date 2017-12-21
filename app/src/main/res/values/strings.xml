@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mobile_IndoorPosition</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCjvEWvg7rOvSugWY5fbAG-zju0jug3594</string>
+
+</resources>

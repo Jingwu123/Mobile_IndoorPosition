@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="IndoorMaps">
+    <item>LG_GFloors</item>
+    <item>1_2Floors </item>
+    <item>3_4Floors</item>
+    </string-array>
+
+</resources>
